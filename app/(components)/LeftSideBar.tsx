@@ -12,7 +12,7 @@ const navItems: NavItem[] = [
   { label: "Review", href: "/review" },
   { label: "Quest", href: "/quest" },
   { label: "Profile", href: "/profile" },
-  { label: "Settings", href: "/profile" },
+  { label: "Settings", href: "/settings" },
 ];
 
 const LeftSideBar: React.FC = () => {
